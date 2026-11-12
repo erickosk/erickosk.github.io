@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.resuelvematematicas",
+  "appName": "Resuelve Matemáticas",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}

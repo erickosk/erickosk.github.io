@@ -1,0 +1,13 @@
+{
+  "name": "resuelve-matematicas",
+  "version": "3.0.0",
+  "description": "App web/PWA de práctica de matemáticas con problemas generados al azar.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node tests/run.js",
+    "serve": "npx --yes http-server . -p 8080 -c-1",
+    "build:www": "node scripts/build-www.js"
+  },
+  "engines": { "node": ">=18" }
+}
